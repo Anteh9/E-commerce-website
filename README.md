@@ -1,4 +1,4 @@
-## Note: PLease my uml use ase diagram is in the Master branch
+## Note: Please my uml use case diagram is in the Master branch
 
 # E-commerce-website
  E-commerce Website, the actors and functions typically include the following:
